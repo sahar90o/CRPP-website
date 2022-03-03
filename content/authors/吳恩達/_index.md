@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳恩達
+title: Zahra Khodabakhshi
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD staudet
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Zurich
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,8 +22,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Medical Image Analysis
+- 
 
 education:
   courses:
