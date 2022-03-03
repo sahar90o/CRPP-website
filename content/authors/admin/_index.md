@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Nicolaus Andratschke
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Prof.Dr.Med
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University Hospital of Zurich (Department of Radiation Oncology)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -40,13 +40,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:Nicolaus.Andratschke@usz.ch'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://mobile.twitter.com/nandratschke
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=n0oz878AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
