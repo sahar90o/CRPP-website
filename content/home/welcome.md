@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+In this research priority program, we develop applications of AI in oncological imaging, i.e. the diagnosis and treatment of cancer patients. Improvements are expected in two directions. First, AI techniques facilitate automation and standardization of labor-intensive routine tasks of physicians. Second, AI algorithms allow for quantitative analysis of medical images and facilitate detection of image features not perceivable to the human eye. Thereby, AI algorithms may improve cancer diagnosis and therapy. 
