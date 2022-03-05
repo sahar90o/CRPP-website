@@ -9,6 +9,9 @@ weight: 10  # Order that this section will appear.
 title: |
   CRPP Artificial Intelligence in Oncological Imaging
 hero_media: zurich.jpg
+image:
+  placement: 1
+  focal_point: "Center"
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
