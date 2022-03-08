@@ -28,4 +28,4 @@ design:
 
 <br>
 
-In this research priority program, we develop applications of AI in oncological imaging, i.e. the diagnosis and treatment of cancer patients. Improvements are expected in two directions.
+In this research priority program, we develop applications of AI in oncological imaging, i.e. the diagnosis and treatment of cancer patients.
