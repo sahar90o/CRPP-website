@@ -11,11 +11,17 @@ title: |
 hero_media: zurich.jpg
 
 design:
+  background:
+    image: zurich.jpg
+    image_size: cover
+    image_position: center
+    test_color_light: true
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   # Add custom styles
   css_style:
   css_class:
+  
 ---
 
 <br>
