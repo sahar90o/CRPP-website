@@ -13,7 +13,7 @@ title: |
 design:
   background:
     image: zurich.jpg
-    #image_darken: 0.7
+    image_darken: 0.7
     image_size: cover
     image_position: center
     text_color_light: true
@@ -28,4 +28,4 @@ design:
 
 <br>
 
-In this research priority program, we develop applications of AI in oncological imaging, i.e. the diagnosis and treatment of cancer patients. Improvements are expected in two directions. First, AI techniques facilitate automation and standardization of labor-intensive routine tasks of physicians. Second, AI algorithms allow for quantitative analysis of medical images and facilitate detection of image features not perceivable to the human eye. Thereby, AI algorithms may improve cancer diagnosis and therapy. 
+In this research priority program, we develop applications of AI in oncological imaging, i.e. the diagnosis and treatment of cancer patients. Improvements are expected in two directions.
