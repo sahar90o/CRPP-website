@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD staudet
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
