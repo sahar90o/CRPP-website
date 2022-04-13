@@ -23,18 +23,17 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Artificial Intelligence
 - Medical Image Analysis
-- 
 
 education:
   courses:
   - course: PhD in Medical Physics
     institution: University of Zurich-Switzerland
     year: 2021-2024
-  - course: MSc in Medical Physics-Iran
+  - course: MSc in Medical Physics
     institution: Tehran University of Medical Sciences
     year: 2019
   - course: BSc in Physics
-    institustion: Razi University-Iran
+    institustion: Razi University
     year: 2015
 
 # Social/Academic Networking
