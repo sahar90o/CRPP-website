@@ -4,14 +4,14 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Work Packages
-    url: Work Packages
-    weight: 10
   - name: News
     url: post
-    weight: 20
+    weight: 10
   - name: People
     url: people
+    weight: 20
+  - name: Work Packages
+    url: Work Packages
     weight: 30
   - name: Events
     url: event
