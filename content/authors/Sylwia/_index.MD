@@ -6,7 +6,7 @@ title: Sylwia Nowakowska
 superuser: false
 
 # Role/position
-role: PostDoc
+role: PhD
 
 # Organizations/Affiliations
 organizations:
