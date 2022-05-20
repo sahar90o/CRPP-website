@@ -1,35 +1,35 @@
 ---
 # Display name
-title: Sylwia Nowakowska
+title: Stephanie Tanadini-Lang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PostDoc
+role: Head of Medical Physics
 
 # Organizations/Affiliations
 organizations:
-- name: University Hospital of Zurich, Diagnostic and Interventional Radiology
+- name: University Hospital Zurich, Department of Radiation Oncology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence in Medical Imaging
+- Radiomics
+- Outcome Modeling
+- Image analysis
+- Decision support systems
 
 education:
   courses:
-  - course: PhD in Nanoscience
-    institution: University of Basel, Switzerland
-    year: 2012-2016
-  - course: MSc in Technical Physics
-    institution: Poznan University of Technology, Poland
-    year: 2011-2012
-  - BSc in Technical Physics
-    institution: Poznan University of Technology
-    year: 2007-2011
+  - course: PhD in Physics
+    institution: University of Zurich, Switzerland
+    year: 2011-2014
+  - course: MAS in Medical Physics
+    institution: University of Zurich, Switzerland
+    year: 2010-2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,10 +41,10 @@ social:
   link: 'mailto:'
 - icon: twitter
   icon_pack: fab
-  link: 
+  link: https:
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https:
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
