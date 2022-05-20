@@ -1,33 +1,35 @@
 ---
 # Display name
-title: Nicolaus Andratschke
+title: Sylwia Nowakowska
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Prof.Dr.Med
+role: PostDoc
 
 # Organizations/Affiliations
 organizations:
-- name: University Hospital of Zurich (Department of Radiation Oncology)
+- name: University Hospital Zurich (Diagnostic and Interventional Radiology)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Radiation Oncology
+- Artificial Intelligence in Medical Imaging
 
 education:
   courses:
-  - course: Postdoctoral Fellowship
-    institution: MD Anderson Cancer center, USA
-    year: 2003
-  - course: Doctorate in Radiation Therapy
-    institution: TU Munich
-    year: 2001
+  - course: PhD in Nanoscience
+    institution: University of Basel, Switzerland
+    year: 2012-2016
+  - course: MSc in Technical Physics
+    institution: Poznan University of Technology, Poland
+    year: 2011-2012
+  - course: BSc in Technical Physics
+    institution: Poznan University of Technology, Poland
+    year: 2007-2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -36,13 +38,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:Nicolaus.Andratschke@usz.ch'
+  link: ''
 - icon: twitter
   icon_pack: fab
-  link: https://mobile.twitter.com/nandratschke
+  link: 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=n0oz878AAAAJ
+  link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -61,6 +63,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Researchers
 ---
-
