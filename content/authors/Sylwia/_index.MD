@@ -10,7 +10,7 @@ role: PostDoc
 
 # Organizations/Affiliations
 organizations:
-- name: University Hospital Zurich (Diagnostic and Interventional Radiology)
+- name: University Hospital of Zurich, Diagnostic and Interventional Radiology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,8 +27,8 @@ education:
   - course: MSc in Technical Physics
     institution: Poznan University of Technology, Poland
     year: 2011-2012
-  - course: BSc in Technical Physics
-    institution: Poznan University of Technology, Poland
+  - BSc in Technical Physics
+    institution: Poznan University of Technology
     year: 2007-2011
 
 # Social/Academic Networking
@@ -38,13 +38,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: ''
+  link: 'mailto:Nicolaus.Andratschke@usz.ch'
 - icon: twitter
   icon_pack: fab
-  link: 
+  link: https://mobile.twitter.com/nandratschke
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https://scholar.google.com/citations?user=n0oz878AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -65,3 +65,4 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
+
