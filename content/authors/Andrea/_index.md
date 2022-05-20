@@ -1,35 +1,38 @@
 ---
 # Display name
-title: Stephanie Tanadini-Lang
+title: Andrea Bink
+
+# Username (this should match the folder name)
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Head of Medical Physics
+role: Prof.Dr.Med,Senior Consultant
 
 # Organizations/Affiliations
 organizations:
-- name: University Hospital Zurich, Department of Radiation Oncology
+- name: Department of Neuroradiology, University Hospital and University of Zurich
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Radiomics
-- Outcome Modeling
-- Image analysis
-- Decision support systems
+- Neuroimaging in gliomas
+- Automatic qualitative and quantitative evaluation methods in neuroradiology
 
 education:
   courses:
-  - course: PhD in Physics
-    institution: University of Zurich, Switzerland
-    year: 2011-2014
-  - course: MAS in Medical Physics
-    institution: University of Zurich, Switzerland
-    year: 2010-2012
+  - course: PhD in Medical Physics
+    institution: University of Zurich-Switzerland
+    year: 2021-2024
+  - course: MSc in Medical Physics
+    institution: Tehran University of Medical Sciences
+    year: 2019
+  - course: BSc in Physics
+    institustion: Razi University
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -38,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:'
+  link: ''
 - icon: twitter
   icon_pack: fab
   link: https:
@@ -57,12 +60,11 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 ---
+
+
 
