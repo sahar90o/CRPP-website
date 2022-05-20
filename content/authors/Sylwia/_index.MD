@@ -38,13 +38,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:Nicolaus.Andratschke@usz.ch'
+  link: ''
 - icon: twitter
   icon_pack: fab
-  link: https://mobile.twitter.com/nandratschke
+  link: 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=n0oz878AAAAJ
+  link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
