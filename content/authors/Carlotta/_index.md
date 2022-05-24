@@ -1,35 +1,35 @@
 ---
 # Display name
-title: Stephanie Tanadini-Lang 
+title: Carlotta Ruppert
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Head of Medical Physics
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Radiation Oncology, University of Zurich
+- name: University of Zurich
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Radiomics
-- Outcome modeling 
-- Image analysis
-- Decision support systems
+- Artificial Intelligence
+- Computer vision
+- Medical image analysis
+- Ultrasound
 
 education:
   courses:
-  - course: PhD in Physics
+  - course: PhD in Data Science
     institution: University of Zurich, Switzerland
-    year: 2011-2014
-  - course: MAS in Medical Physics
-    institution: University of Zurich, Switzerland
-    year: 2010-2012
+    year: 2022-present
+  - course: MSc in Medical Engineering
+    institution: Zurich University of Applied Sciences
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -63,6 +63,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Researchers
 ---
 
