@@ -1,35 +1,34 @@
 ---
 # Display name
-title: Sylwia Nowakowska
+title: Roman Ludwing
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PostDoc
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: University Hospital of Zurich, Diagnostic and Interventional Radiology
+- name: University of Zurich
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence in Medical Imaging
+- Probabilistic modeling
+- Reproducible research 
+- Open source code
 
 education:
   courses:
-  - course: PhD in Nanoscience
-    institution: University of Basel, Switzerland
-    year: 2012-2016
-  - course: MSc in Technical Physics
-    institution: Poznan University of Technology, Poland
-    year: 2011-2012
-  - BSc in Technical Physics
-    institution: Poznan University of Technology
-    year: 2007-2011
+  - course: Postdoctoral Fellowship
+    institution: MD Anderson Cancer center, USA
+    year: 2003
+  - course: Doctorate in Radiation Therapy
+    institution: TU Munich
+    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -38,13 +37,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:'
+  link: 'mailto:Nicolaus.Andratschke@usz.ch'
 - icon: twitter
   icon_pack: fab
-  link: 
+  link: https://mobile.twitter.com/nandratschke
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https://scholar.google.com/citations?user=n0oz878AAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -63,6 +62,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Principal Investigators
 ---
 
