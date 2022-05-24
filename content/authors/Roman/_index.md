@@ -23,12 +23,15 @@ interests:
 
 education:
   courses:
-  - course: Postdoctoral Fellowship
-    institution: MD Anderson Cancer center, USA
-    year: 2003
-  - course: Doctorate in Radiation Therapy
-    institution: TU Munich
-    year: 2001
+  - course: PhD in Medical Physics
+    institution: University of Zurich, Switzaerland
+    year: 2019-present
+  - course: MSc in Physics
+    institution: University of Tubingen, Germany
+    year: 2017-2019
+  - course: BSc in Physics
+    institution: University of Tubingen, Germany
+    year: 2012-2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -37,13 +40,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:Nicolaus.Andratschke@usz.ch'
+  link: 'mailto'
 - icon: twitter
   icon_pack: fab
-  link: https://mobile.twitter.com/nandratschke
+  link: 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=n0oz878AAAAJ
+  link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -62,6 +65,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Researchers
 ---
 
