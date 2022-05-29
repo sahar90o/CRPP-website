@@ -24,7 +24,7 @@ interests:
 education:
   courses:
   - course: PhD Xlinical Science
-    institution: University of Zurich, Switzaerland
+    institution: University of Zurich, Switzerland
     year: 2021-present
   - course: Specialization in Radiology
     institution: University of Trieste, Italy

@@ -26,7 +26,7 @@ education:
     institution: MD Anderson Cancer center, USA
     year: 2003
   - course: Doctorate in Radiation Therapy
-    institution: TU Munich
+    institution: TU Munich, Germany
     year: 2001
 
 # Social/Academic Networking
