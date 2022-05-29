@@ -1,36 +1,35 @@
 ---
 # Display name
-title: Sara Sangalli
+title: Stephanie Tanadini-Lang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student 
+role: Head of Medical Physics
 
 # Organizations/Affiliations
 organizations:
-- name: ETH Zurich-Buimedical Image Computing Lab (Computer Vision Lab)
+- name: Department of Radiation Oncology, University of Zurich
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Neural network calibration
-- Uncertainty estimation
+- Radiomics
+- Outcome modeling  
+- Image analysis
+- Decision support systems
 
 education:
   courses:
-  - course: PhD in Medical Image Analysis
-    institution: ETH Zurich, Switzerland
-    year: 2021-present
-  - course: MSc in Electrical Engineering and Information Technology
-    institution: ETH Zurich, Switzerland
-    year: 2021
-  - course: BSc in Electronics Engineering
-    institution: Politectinco di Milano 
-    year: 2018
+  - course: PhD in Physics
+    institution: University of Zurich, Switzaerland
+    year: 2011-2014
+  - course: MAS in Medical Physics
+    institution: University of Zurich, Switzerland
+    year: 2010-2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,10 +41,10 @@ social:
   link: 'mailto'
 - icon: twitter
   icon_pack: fab
-  link: https:
+  link: 
 - icon: google-scholar
   icon_pack: ai
-  link: https:
+  link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -64,6 +63,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Principal Investigators
 ---
 
