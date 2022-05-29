@@ -24,7 +24,7 @@ interests:
 education:
   courses:
   - course: PhD in Medical Physics
-    institution: University of Zurich, Switzaerland
+    institution: University of Zurich, Switzerland
     year: 2019-present
   - course: MSc in Physics
     institution: University of Tubingen, Germany

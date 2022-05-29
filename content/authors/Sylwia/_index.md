@@ -22,7 +22,7 @@ interests:
 education:
   courses:
   - course: PhD in Nanoscience
-    institution: University of Basel, Switzaerland
+    institution: University of Basel, Switzerland
     year: 2012-2016
   - course: MSc in Technical Physics
     institution: Poznan University of Technology, Poland
