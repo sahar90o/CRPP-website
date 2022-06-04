@@ -66,4 +66,7 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
+Sara received her BSc Degree from Politecnico di Milano in Electronics engineering and her MSc degree in Electrical Engineering and Information Technology from ETH Zurich.
+She is doing a PhD in Medical Image Analysis at Computer Vision Lab under the supervision of Prof. Ender Konukoglu. Her current research interests are neural network calibration and uncertainty estimation, to build trustworthy AI systems in medical image processing.
+
 

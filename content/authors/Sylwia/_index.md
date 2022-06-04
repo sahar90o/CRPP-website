@@ -65,4 +65,5 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
+During my PhD studies, I did a research on nanomaterials for molecular and quantum computing. Afterwards, I worked in a start-up company, where I synthesized and characterized nanomaterials for high-tech industrial applications. Later on, I joined an another start-up, where I was developing quality control systems to detect substrandard and falsified medicaments based on terahertz spectroscopy and imaging coupled with AI. As I became more and more fascinated by deep learning in medical imaging, I was happy to switch to AI research at USZ.
 
