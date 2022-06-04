@@ -67,7 +67,6 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
-#Short biography:
 I am a physicist with specialisation towards statistical mechanics and thermodynamics during Bachelor. Then focus on general relativity and master thesis about inference from gravitational wave signals, while in parallel stuying machine learning methods and statistical learning theory. Current work focuses on probabilistic models for predicting cancer spread and machine learning to improve radiotherapy
 
 

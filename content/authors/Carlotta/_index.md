@@ -68,4 +68,5 @@ highlight_name: false
 user_groups:
 - Researchers
 ---
+Carlotta Ruppert is a first year doctoral student in Data Science at the Institute of Diagnostic and Interventional Radiology at the University Hospital Zurich. Her research focuses on explainable and automatic classification of lesions in breast ultrasound using deep learning algorithms. Her research is funded by the CRPP Artificial Intelligence in Oncological Imaging.
 
