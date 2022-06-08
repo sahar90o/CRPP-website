@@ -58,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Senior Resaerchers and Postdocs
+- Senior Researchers and Postdocs
 ---
 Senior Researcher at the Dermatology Clinic and Department of Radiation Oncology at the University Hospital of Zurich (USZ) and University of Zurich (UZH). Extensive experience in scientific team management with profound background in deep learning, high performance computing and mathematical modeling acquired in top university hospitals (CHUV and USZ) and research institutions (CERN and EPFL). Currently, he is leading the technical development of AI packages for skin lesion triage and diagnosis support in CRPP WP8
 
