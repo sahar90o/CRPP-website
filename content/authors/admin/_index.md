@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include radiomics and deep learning methods for auto segmentation and outcome prediction in patients with brain metastasis.
 
 interests:
 - Artificial Intelligence
