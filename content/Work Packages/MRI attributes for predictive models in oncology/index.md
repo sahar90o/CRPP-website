@@ -1,5 +1,5 @@
 ---
-title: Project1: MRI attributes for predictive models in oncology
+title: MRI attributes for predictive models in oncology
 image: 
   focal_point: "top"
 ---
