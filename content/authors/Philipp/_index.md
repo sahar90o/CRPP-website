@@ -64,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Grad Students
 ---
 Studied physics with a focus on astrophysics and later medical physics. Masterthesis at Inselspital Bern in radiotherapy planning. Currently working as a PhD candidate in the Radiomics Research group at University Hospital Zurich. Particular interest in quantitative acquisition and analysis of MR images, including data from MR-linacs.
 

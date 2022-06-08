@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Grad Students
 ---
 Carlotta Ruppert is a first year doctoral student in Data Science at the Institute of Diagnostic and Interventional Radiology at the University Hospital Zurich. Her research focuses on explainable and automatic classification of lesions in breast ultrasound using deep learning algorithms. Her research is funded by the CRPP Artificial Intelligence in Oncological Imaging.
 
