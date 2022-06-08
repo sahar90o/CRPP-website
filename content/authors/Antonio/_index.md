@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Grad Students
 ---
 My name is Antonio Giulio Gennari and I am a medical doctor. I have completed my studies in Trieste (Italy) where I have been granted the title of Specialist in radiology. After finishing my residency I have worked full-time as a physician for two years. However, since I was a medical student the complexity underneath human body’s physiology fascinated me. Therefore, I have decided to start a PhD in Zurich and to dedicate myself to research, aiming to contribute to a better understanding of diseases‘ pathogenesis.
 

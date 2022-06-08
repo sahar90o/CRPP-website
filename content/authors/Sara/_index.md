@@ -64,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Grad Students
 ---
 Sara received her BSc Degree from Politecnico di Milano in Electronics engineering and her MSc degree in Electrical Engineering and Information Technology from ETH Zurich.
 She is doing a PhD in Medical Image Analysis at Computer Vision Lab under the supervision of Prof. Ender Konukoglu. Her current research interests are neural network calibration and uncertainty estimation, to build trustworthy AI systems in medical image processing.
