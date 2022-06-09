@@ -11,7 +11,7 @@ content:
   count: 5
   filters:
     folders:
-      - people
+      - authors
     author: ""
     category: ""
     exclude_featured: false
@@ -19,7 +19,7 @@ content:
     tag: ""
   offset: 0
   order: desc
-  page_type: post
+  #page_type: post
 design:
   view: 2
   columns: "2"
