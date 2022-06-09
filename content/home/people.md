@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-headless: false
-weight: 30
+headless: true
+weight: 20
 
 title: Meet the Team
 subtitle:
@@ -17,7 +17,7 @@ content:
     tag: ""
   offset: 0
   order: desc
-  page_type: post
+  page_type: people
 design:
   view: 2
   columns: "2"
