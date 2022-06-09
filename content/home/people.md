@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: false
-weight: 20
+weight: 30
 
 title: Meet the Team
 subtitle:
