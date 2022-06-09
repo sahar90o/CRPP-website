@@ -4,7 +4,7 @@ widget: pages
 headless: false
 weight: 20
 
-title: Latest New
+title: Latest News
 subtitle:
 
 content:
