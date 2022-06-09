@@ -10,8 +10,6 @@ subtitle:
 content:
   count: 5
   filters:
-    folders:
-      - authors
     author: ""
     category: ""
     exclude_featured: false
@@ -19,7 +17,7 @@ content:
     tag: ""
   offset: 0
   order: desc
-  #page_type: post
+  page_type: authors
 design:
   view: 2
   columns: "2"
