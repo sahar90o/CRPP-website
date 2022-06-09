@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-headless: true
+headless: false
 weight: 20
 
-title: Meet the Team
+title: Latest New
 subtitle:
 
 content:
