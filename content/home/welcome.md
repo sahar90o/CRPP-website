@@ -7,7 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  CRPP Artificial Intelligence in Oncological Imaging
+  Artificial Intelligence in Oncological Imaging
 #hero_media: zurich.jpg
 
 design:
@@ -28,4 +28,4 @@ design:
 
 <br>
 
-In this research priority program, we develop applications of AI in oncological imaging, i.e. the diagnosis and treatment of cancer patients.
+A Clinical Research Priority Program of the University of Zurich in Collaboration with the University Hosiptal of Zurich and the ETH Zurich
