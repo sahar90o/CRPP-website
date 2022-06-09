@@ -1,6 +1,6 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: people
+widget: pages
 headless: false
 weight: 20
 
