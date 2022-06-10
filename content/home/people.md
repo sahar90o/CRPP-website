@@ -17,7 +17,7 @@ content:
     tag: ""
   offset: 0
   order: desc
-  page_type: people
+  page_type: author
 design:
   view: 2
   columns: "2"
