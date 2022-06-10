@@ -17,7 +17,7 @@ content:
     tag: ""
   offset: 0
   order: desc
-  page_type: authors
+  page_type: work-packages
 design:
   view: 2
   columns: "2"
