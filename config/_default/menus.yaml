@@ -10,8 +10,8 @@ main:
   - name: People
     url: people
     weight: 20
-  - name: Work Packages
-    url: work-packages
+  - name: projects
+    url: projects
     weight: 30
   - name: Events
     url: event
