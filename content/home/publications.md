@@ -17,7 +17,7 @@ content:
     tag: ""
   offset: 0
   order: desc
-  page_type: work-packages
+  page_type: publications
 design:
   view: 2
   columns: "2"
