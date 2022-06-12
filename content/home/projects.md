@@ -4,7 +4,7 @@ widget: pages
 headless: false
 weight: 30
 
-title: Meet the Team
+title: Work Packages
 subtitle:
 
 content:
