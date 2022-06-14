@@ -8,7 +8,7 @@ main:
     url: post
     weight: 10
   - name: Consortium
-    url: consortium
+    url: people
     weight: 20
   - name: Projects
     url: projects
