@@ -21,15 +21,15 @@ interests:
 
 education:
   courses:
+  - course: Doctoral Degree
+    institution: University of Wuerzburg, Germany
+    year: 2004
+  - course: Surgical Internship
+    institution: University of Soutern California, USA
+    year: 2002
   - course: Medicine
-    institution: University of Zurich, Switzerland
-    year: 2019-present
-  - course: MSc in Physics
-    institution: University of Tubingen, Germany
-    year: 2017-2019
-  - course: BSc in Physics
-    institution: University of Tubingen, Germany
-    year: 2012-2017
+    institution: University of Wuerzburg, Germany
+    year: 1997-2003
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
