@@ -7,10 +7,10 @@ main:
   - name: News
     url: post
     weight: 10
-  - name: People
+  - name: Consortium
     url: people
     weight: 20
-  - name: projects
+  - name: Projects
     url: projects
     weight: 30
   - name: Events
