@@ -64,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Work Package Leaders
 ---
 I was educated and worked in radiology and neuroradiology at university hospitals of Kiel, Mainz, Frankfurt and Münster in Germany. After my habilitation (PhD) with the topic “Longterm results in patients with intracranial dural arteriovenous fistulas under special consideration of the endovascular therapy management” I did an interventional fellowship at the Karolinska Hospital, Stockholm, Sweden. 
 Parallel to these activities I was from the beginning interested in and part of work groups dealing with imaging of patients with brain tumors, especially gliomas, and intensified research in this field when working in Switzerland, first at the University Hospital Basel and since 2018 at the University Hospital Zurich, where I was promoted Professor in 2020. My recent research focusses on new neuroradiological examination methods and quantitative measurements of gliomas. 
