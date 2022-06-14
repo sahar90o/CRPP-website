@@ -22,6 +22,8 @@ content:
   - Administration
   - Visitors
   - Alumni
+  - Executive Committee
+  - Work Package Leaders
 design:
   show_interests: false
   show_role: true
