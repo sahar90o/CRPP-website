@@ -10,7 +10,7 @@ role: Prof.Dr.Med
 
 # Organizations/Affiliations
 organizations:
-- name: University Hospital Zurich, Comprehensive Cancer Centetr
+- name: University Hospital Zurich, Comprehensive Cancer Center
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
