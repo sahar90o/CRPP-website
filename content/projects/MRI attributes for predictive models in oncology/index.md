@@ -7,12 +7,12 @@ image:
 
 <!--more-->
 
-Background: 
+**Background:** 
 
 Conventional Magnetic Resonance Imaging (MRI) supports tumor diagnosis, treatment selection, and treatment monitoring by evaluating lesion location, size, and structure. Advanced methods of MRI additionally provide insides into tumor angiogenesis, cellularity, and hypoxia, which potentially prognosticate disease course and treatment response. 
 
 
-Working hypothesis: 
+**Working hypothesis:**
 
 
 1- MRI offers a multiplicity of patient- and lesion-specific imaging attributes, which support automated tissue classification and identification of imaging prognostic markers;
@@ -21,7 +21,7 @@ Working hypothesis:
 
 
 
-Specific aims for this research project:
+**Specific aims for this research project:**
 
 1- To implement multi-parametrical and clinically feasible MRI protocols for evaluation of tumor morphology and pathophysiology of malignant lesions in well-defined oncological sub-cohorts;
 
