@@ -29,7 +29,7 @@ Within this WP we aim to establish a comprehensive software suite that integrate
 
 **Team: **
 
-[zahra khodabakhshi]({{< relref "/consortium/zahra-khodabakhshi" >}})
+zahra khodabakhshi ({{< relref "/consortium/zahra-khodabakhshi" >}})
 
 
 
