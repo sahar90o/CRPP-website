@@ -29,7 +29,7 @@ Within this WP we aim to establish a comprehensive software suite that integrate
 
 **Team: **
 
-[zahra khodabakhshi]({{< relref "/post/21-11-12-anual-meeting/" >}})
+[zahra khodabakhshi]({{< relref "/post/21-11-12-anual-meeting" >}})
 
 
 
