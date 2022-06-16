@@ -44,13 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'zahra.khodabakhshi@usz.ch'
+  link: 'mailto'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/Sahar90Kh/likes
+  link: 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=th4Z9WoAAAAJ&hl=en
+  link: https:
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
