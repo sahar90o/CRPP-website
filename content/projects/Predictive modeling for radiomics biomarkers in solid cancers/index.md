@@ -27,9 +27,7 @@ Within this WP we aim to establish a comprehensive software suite that integrate
 2-To implement a ML-based predictive modelling framework with automated algorithms to predict clinically relevant outcome measures from imaging features. 
 3-To adapt the radiomics implementation to general medical imaging modalities, e.g. incident light skin microscopy pictures (WP Early detection of skin cancer).
 
-**Team: **
 
-[zahra khodabakhshi]({{< relref "/post/21-11-12-anual-meeting" >}})
 
 
 

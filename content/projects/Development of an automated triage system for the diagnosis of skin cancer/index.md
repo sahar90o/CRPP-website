@@ -1,5 +1,5 @@
 ---
-title: AI based modeling of lymphatic cancer progression
+title: Development of an automated triage system for the diagnosis of skin cancer
 image: 
   focal_point: "top"
 ---
