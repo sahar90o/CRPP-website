@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'BERTRAND.POUYMAYOU@gmail.com'
+  link: 'mailto'
 - icon: twitter
   icon_pack: fab
   link: 
