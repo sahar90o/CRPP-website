@@ -1,12 +1,16 @@
 ---
 # Display name
-title: Bertrand Pouymayou
+title: Bertrand Pouyamayou
+
+# Username (this should match the folder name)
+#authors:
+#- admin
 
 # Is this the primary user of the site?
-superuser: false
+superuser: False
 
 # Role/position
-role: PostDoc
+role: PosDoc
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include radiomics and deep learning methods for auto segmentation and outcome prediction in patients with brain metastasis.
 
 interests:
 
@@ -27,7 +31,7 @@ education:
     institution: ETH Zurich, Switzerland
     year: 2011-2013
   - course: BSc in Physics
-    institution: Université Paris-Sud XI, Orsay, France
+    institustion: Université Paris-Sud XI, Orsay, France
     year: 2015
 
 # Social/Academic Networking
@@ -40,10 +44,10 @@ social:
   link: 'BERTRAND.POUYMAYOU@gmail.com'
 - icon: twitter
   icon_pack: fab
-  link: 
+  link: https:
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https:
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -56,12 +60,11 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdocs
+- Senior Researchers and Posdocs
 ---
+
+
 
