@@ -7,19 +7,19 @@ image:
 
 <!--more-->
 
-Background: 
+**Background:** 
 
 To optimally balance the chance of tumor control versus the risk of side effects, local cancer treatment with radiotherapy and surgery rely on accurate definition of the loco-regional extension of the disease on medical images. Most cancers progress through the lymphatic system and form metastases in regional lymph nodes. In this project, we focus on radiotherapy target delineation in head & neck cancer, however, the AI methodology to be developed will be equally applicable to other cancer sites with lymphatic spread. 
 
 
-Working hypothesis: 
+**Working hypothesis:** 
 
 
 AI methods promise improvements in all steps of head & neck cancer target definition for radiotherapy planning, namely by partially automating target volume delineation, more consistency and less inter-observer variability, and ultimately improvements through more personalized definition of target volumes.
 
 
 
-Specific aims for this research project:
+**Specific aims for this research project:**
 
 1- Automatic segmentation of lymph node levels (blue) and individual lymph nodes in CT images (yellow, green), which is currently a labor-intensive manual task.
 
