@@ -29,7 +29,7 @@ Within this WP we aim to establish a comprehensive software suite that integrate
 
 **Team: **
 
-[Stephanie Tanadini-Lang]({{< relref "/consortium/zahra-khodabakhshi" >}})
+[zahra khodabakhshi]({{< relref "/consortium/zahra-khodabakhshi" >}})
 
 
 
