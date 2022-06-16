@@ -23,7 +23,7 @@ education:
   - course: PhD in Magnetic Resonance Spectroscopy
     institution: University of Bern, Switzerland
     year: 2014-2017
-  - course: MSc in Biomedical Engineering
+  - course: MSc in Biomedical Engineering 
     institution: ETH Zurich, Switzerland
     year: 2011-2013
   - course: BSc in Physics
@@ -62,6 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdocs
+- Senior Researchers and Postdocs
 ---
+
 
