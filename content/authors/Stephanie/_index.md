@@ -6,7 +6,7 @@ title: Stephanie Tanadini-Lang
 superuser: false
 
 # Role/position
-role: Head of Medical Physics
+role: Dr,Head of Medical Physics
 
 # Organizations/Affiliations
 organizations:
