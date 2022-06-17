@@ -23,7 +23,7 @@ interests:
 
 education:
   courses:
-  - course: PhD Xlinical Science
+  - course: PhD Clinical Science
     institution: University of Zurich, Switzerland
     year: 2021-present
   - course: Specialization in Radiology

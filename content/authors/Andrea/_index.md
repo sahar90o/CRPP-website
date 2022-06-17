@@ -27,10 +27,16 @@ education:
     year: 
   - course: Board Certification Radiology
     institution: 
-    year: 
+    year:
+  - course: Medical Quality Management
+    institution: 
+    year:  
   - course: Master of Health Business Administrator
     institution: 
-    year: 
+    year:
+  - course: Swedish and Swiss Diploma in Radiology
+    institution: 
+    year:  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -66,7 +72,7 @@ highlight_name: false
 user_groups:
 - Work Package Leaders
 ---
-I was educated and worked in radiology and neuroradiology at university hospitals of Kiel, Mainz, Frankfurt and Münster in Germany. After my habilitation (PhD) with the topic “Longterm results in patients with intracranial dural arteriovenous fistulas under special consideration of the endovascular therapy management” I did an interventional fellowship at the Karolinska Hospital, Stockholm, Sweden. 
-Parallel to these activities I was from the beginning interested in and part of work groups dealing with imaging of patients with brain tumors, especially gliomas, and intensified research in this field when working in Switzerland, first at the University Hospital Basel and since 2018 at the University Hospital Zurich, where I was promoted Professor in 2020. My recent research focusses on new neuroradiological examination methods and quantitative measurements of gliomas. 
+I was educated and worked in radiology and neuroradiology at the university hospitals of Kiel, Mainz, Frankfurt and Münster in Germany. After my habilitation (PhD) with the topic “Longterm results in patients with intracranial dural arteriovenous fistulas under special consideration of the endovascular therapy management” I did an interventional fellowship at the Karolinska Hospital, Stockholm, Sweden. 
+In parallel to these activities I was interested in and member of work groups dealing with imaging of patients with brain tumors, especially gliomas. I intensified research in this field when working in Switzerland, first at the University Hospital Basel and since 2018 at the University Hospital Zurich, where I was promoted to Professor in 2020. My recent research focusses on new neuroradiological examination methods and quantitative measurements of gliomas. 
 
 
