@@ -2,7 +2,6 @@
 title: "An example journal article"
 authors:
 - admin
-- Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -22,7 +21,7 @@ publication_types: ["2"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Microbubbles are widely used in diagnostic ultrasound applications as contrast agents. Recently, many studies have shown that microbubbles have good potential for the use in therapeutic applications such as drug and gene delivery and opening of blood-brain barrier locally and transiently. When microbubbles are located inside an elastic microvessel and activated by ultrasound, they oscillate and induce mechanical stresses on the vessel wall. However, the mechanical stresses have beneficial therapeutic effects, they may induce vessel damage if they are too high. Microstreaming-induced shear stress is one of the most important wall stresses.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8546166/pdf/JBPE-11-629.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
