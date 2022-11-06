@@ -22,26 +22,7 @@ publication_types: ["2"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Background: Microbubbles are widely used in diagnostic ultrasound applications as contrast agents. Recently, many studies have shown that microbubbles have 
-good potential for the use in therapeutic applications such as drug and gene delivery 
-and opening of blood- brain barrier locally and transiently. When microbubbles are 
-located inside an elastic microvessel and activated by ultrasound, they oscillate and 
-induce mechanical stresses on the vessel wall. However, the mechanical stresses have 
-beneficial therapeutic effects, they may induce vessel damage if they are too high. 
-Microstreaming-induced shear stress is one of the most important wall stresses. 
-Objective: The overall aim of this study is to simulate the interaction between 
-confined bubble inside an elastic microvessel and ultrasound field and investigate the 
-effective parameters on microstreaming-induced shear stress.
-Material and Methods: In this Simulation study, we conducted a 2D finite element simulation to study confined microbubble dynamics, also we investigated both 
-acoustical and bubble material parameters on microbubble oscillation and wall stress. 
-Results: Based on our results, for acoustic parameters in the range of therapeutic applications, the maximum shear stress was lower than 4 kPa. Shear stress was 
-approximately independent from shell viscosity whereas it decreased by increasing 
-the shell stiffness. Moreover, shear stress showed an increasing trend with acoustic 
-pressure. 
-Conclusion: Beside the acoustical parameters, bubble properties have important 
-effects on bubble behavior so that the softer and larger bubbles are more appropriate 
-for therapeutic application as they can decrease the required frequency and acoustic 
-pressure while inducing the same biological effects.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -53,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8546166/pdf/JBPE-11-629.pdf
+url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
 url_poster: ''
