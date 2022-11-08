@@ -4,7 +4,7 @@ widget: pages
 headless: false
 weight: 40
 
-title: Work Packages
+title: Consortium
 subtitle:
 
 content:
@@ -17,7 +17,7 @@ content:
     tag: ""
   offset: 0
   order: desc
-  page_type: projects
+  page_type: people
 design:
   view: 2
   columns: "2"
