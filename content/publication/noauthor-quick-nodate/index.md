@@ -1,5 +1,5 @@
 ---
-title: "Non-Invasive Blood Brain Barrir Disruption Using Focused Ultrasound"
+title: "Non-Invasive Blood Brain Barrier Disruption Using Focused Ultrasound"
 authors:
 - admin
 author_notes:
@@ -24,7 +24,7 @@ publication_short: ""
 abstract: Microbubbles are widely used in diagnostic ultrasound applications as contrast agents. Recently, many studies have shown that microbubbles have good potential for the use in therapeutic applications such as drug and gene delivery and opening of blood-brain barrier locally and transiently. When microbubbles are located inside an elastic microvessel and activated by ultrasound, they oscillate and induce mechanical stresses on the vessel wall. However, the mechanical stresses have beneficial therapeutic effects, they may induce vessel damage if they are too high. Microstreaming-induced shear stress is one of the most important wall stresses.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Microbubbles are widely used in diagnostic ultrasound applications as contrast agents. Recently, many studies have shown that microbubbles have good potential for the use in therapeutic applications such as drug and gene delivery and opening of blood-brain barrier locally and transiently.
 
 tags:
 - Source Themes
