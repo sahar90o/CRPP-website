@@ -4,7 +4,7 @@ widget: pages
 headless: false
 weight: 40
 
-title: Consortium
+title: Publications
 subtitle:
 
 content:
@@ -17,7 +17,7 @@ content:
     tag: ""
   offset: 0
   order: desc
-  page_type: authors
+  page_type: Publications
 design:
   view: 2
   columns: "2"
