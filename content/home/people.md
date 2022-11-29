@@ -1,24 +1,31 @@
 ---
+# An instance of the People widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
-headless: false
-weight: 50
+widget: people
 
-title: Consortium
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 68
+
+title: Consortuim
 subtitle:
 
 content:
-  count: 5
-  filters:
-    author: ""
-    category: ""
-    exclude_featured: false
-    publication_type: ""
-    tag: ""
-  offset: 0
-  order: desc
-  page_type: people
+  # Choose which groups/teams of users to display.
+  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+  user_groups:
+  - Principal Investigators
+  - Executive Committee
+  - Work Package Leaders
+  - Senior Researchers and Postdocs
+  - Grad Students
+  - Administration
+  - Visitors
+  - Alumni
 design:
-  view: 5
-  columns: "2"
+  show_interests: false
+  show_role: true
+  show_social: true
 ---
