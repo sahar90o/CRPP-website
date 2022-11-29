@@ -7,7 +7,7 @@ widget: people
 headless: true
 
 # Order that this section appears on the page.
-weight: 6
+weight: 50
 
 title: Consortuim
 subtitle:
