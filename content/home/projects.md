@@ -19,6 +19,6 @@ content:
   order: desc
   page_type: projects
 design:
-  view: 5
+  view: 4
   columns: "2"
 ---
