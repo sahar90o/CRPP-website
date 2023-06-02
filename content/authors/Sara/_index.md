@@ -39,13 +39,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto'
+  link: 'mailto:sara.sangalli@vision.ee.ethz.ch'
 - icon: twitter
   icon_pack: fab
   link: 
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https://scholar.google.com/citations?user=2bnD6cQAAAAJ&hl=en
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen

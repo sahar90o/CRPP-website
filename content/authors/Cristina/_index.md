@@ -6,7 +6,7 @@ title: Cristina Rossi
 superuser: false
 
 # Role/position
-role: Prof.Dr,Quantitative MRI Unit Leader
+role: Prof. Dr,Quantitative MRI Unit Leader
 
 # Organizations/Affiliations
 organizations:

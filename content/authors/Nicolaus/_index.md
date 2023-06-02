@@ -6,7 +6,7 @@ title: Nicolaus Andratschke
 superuser: false
 
 # Role/position
-role: Prof.Dr.Med
+role: Prof. Dr. Med
 
 # Organizations/Affiliations
 organizations:
