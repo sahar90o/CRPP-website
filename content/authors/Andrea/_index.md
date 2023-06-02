@@ -6,7 +6,7 @@ title: Andrea Bink
 superuser: false
 
 # Role/position
-role: Prof.Dr.Med, Senior Consultant
+role: Prof. Dr. Med, Senior Consultant
 
 # Organizations/Affiliations
 organizations:

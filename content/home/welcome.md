@@ -28,4 +28,4 @@ design:
 
 <br>
 
-A Clinical Research Priority Program of the University of Zurich in Collaboration with the University Hosiptal of Zurich and the ETH Zurich
+A Clinical Research Priority Program of the University of Zurich in Collaboration with the University Hospital of Zurich and the ETH Zurich

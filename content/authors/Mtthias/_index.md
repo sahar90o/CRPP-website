@@ -6,7 +6,7 @@ title: Matthias Guckenberger
 superuser: false
 
 # Role/position
-role: Prof.Dr.Med, Chairman and Professor
+role: Prof. Dr. Med, Chairman and Professor
 
 # Organizations/Affiliations
 organizations:

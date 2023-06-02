@@ -6,7 +6,7 @@ title: Jan Unkelbach
 superuser: false
 
 # Role/position
-role: Prof.Dr
+role: Prof. Dr
 
 # Organizations/Affiliations
 organizations:

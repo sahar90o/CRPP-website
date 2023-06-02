@@ -1,5 +1,5 @@
 ---
-title: Anual Meeting 2021
+title: Annual Meeting 2021
 date: 2021-11-12
 image:
   focal_point: "top"
