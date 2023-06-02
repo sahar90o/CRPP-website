@@ -6,7 +6,7 @@ title: Andreas Boss
 superuser: false
 
 # Role/position
-role: Prof. Dr. Med
+role: Prof. Dr. Dr. Med
 
 # Organizations/Affiliations
 organizations:
@@ -60,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Executive Committee
 ---
 
 
