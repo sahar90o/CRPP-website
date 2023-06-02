@@ -6,7 +6,7 @@ title: Andreas Boss
 superuser: false
 
 # Role/position
-role: Prof. Dr. Med
+role: Prof. Dr. Dr. Med
 
 # Organizations/Affiliations
 organizations:
