@@ -6,7 +6,7 @@ title: Cristina Rossi
 superuser: false
 
 # Role/position
-role: Quantitative MRI Unit Leader
+role: Prof.Dr,Quantitative MRI Unit Leader
 
 # Organizations/Affiliations
 organizations:
@@ -43,13 +43,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto'
+  link: 'mailto:cristina.rossi@usz.ch'
 - icon: twitter
   icon_pack: fab
   link: 
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https://scholar.google.ch/citations?user=eGNtu7sAAAAJ&hl=de
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -70,5 +70,5 @@ highlight_name: false
 user_groups:
 - Work Package Leaders
 ---
-I am a physicist with specialisation towards statistical mechanics and thermodynamics during Bachelor. Then focus on general relativity and master thesis about inference from gravitational wave signals, while in parallel stuying machine learning methods and statistical learning theory. Current work focuses on probabilistic models for predicting cancer spread and machine learning to improve radiotherapy
+During my scientific career, I have focused on the development of magnetic resonance imaging (MRI) techniques for the assessment of tissue anatomy and function in a clinical setting. The evaluation of the sensitivity and of the specificity of MRI, as well as the MR-based assessment of quantitative physical variables that allow intra-subject and inter-subject comparison, have characterized my research activity of the last 15 years. The research experience as medical data analysist converged in a translational project aiming at developing and commercializing a computer aided diagnostic software for the early detection of breast cancer. The software (based on techniques of Artificial Intelligence) is commercialized as a certified medical device for the European Union and for the Swiss market from the USZ spin-off b-rayZ AG. I am co-founder and CEO of the company
 
