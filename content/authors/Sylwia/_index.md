@@ -44,7 +44,7 @@ social:
   link: 
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https://scholar.google.ch/citations?user=w8xI3RcAAAAJ&hl=de
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
