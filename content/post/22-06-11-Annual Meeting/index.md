@@ -1,6 +1,6 @@
 ---
 title: Annual Meeting 2022
-date: 2021-06-11
+date: 2022-06-11
 image:
   focal_point: "top"
 ---
