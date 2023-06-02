@@ -41,7 +41,7 @@ social:
   link: 
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https://scholar.google.ch/citations?user=cYEU1qYAAAAJ&hl=de
 #- icon: github
 #  icon_pack: fab
 #  link: 
