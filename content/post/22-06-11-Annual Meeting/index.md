@@ -6,6 +6,6 @@ image:
 ---
 
 <!--more-->
-Anual Meeting 2022
+Annual Meeting 2022
 
 
