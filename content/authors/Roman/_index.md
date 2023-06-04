@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto'
+  link: 'mailto:Roman.Ludwig@usz.ch'
 - icon: twitter
   icon_pack: fab
   link: 

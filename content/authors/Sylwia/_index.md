@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto'
+  link: 'mailto:Sylwia.Nowakowska@usz.ch'
 - icon: twitter
   icon_pack: fab
   link: 

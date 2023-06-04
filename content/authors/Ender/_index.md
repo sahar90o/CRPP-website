@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto'
+  link: 'mailto:ender.konukoglu@vision.ee.ethz.ch'
 - icon: twitter
   icon_pack: fab
   link: 
