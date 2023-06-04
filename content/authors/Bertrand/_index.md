@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto'
+  link: 'mailto:bertrand.pouymayou@usz.ch'
 - icon: twitter
   icon_pack: fab
   link: 
