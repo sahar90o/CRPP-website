@@ -12,7 +12,7 @@ title:
 
 design:
   background:
-    image: zurich.jpg
+    image: zurichoo.jpg
     image_darken: 0.5
     image_size: cover
     image_position: center
