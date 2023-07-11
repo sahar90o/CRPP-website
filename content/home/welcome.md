@@ -9,7 +9,6 @@ weight: 10  # Order that this section will appear.
 title: |
   Artificial Intelligence in Oncological Imaging
 hero_media: zurich.jpg
-placement = '1'
 
 design:
   background:
@@ -20,7 +19,7 @@ design:
     text_color_light: true
     image_parallax: true
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
   # Add custom styles
   css_style:
   css_class:
