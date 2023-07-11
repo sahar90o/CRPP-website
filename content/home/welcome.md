@@ -9,10 +9,11 @@ weight: 10  # Order that this section will appear.
 title: |
   Artificial Intelligence in Oncological Imaging
 hero_media: zurich.jpg
+placement = '1'
 
 design:
   background:
-    image: zurich.jpg
+    image:zurich.jpg
     image_darken: 0.5
     image_size: cover
     image_position: center
