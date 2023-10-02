@@ -13,10 +13,10 @@ title:
 design:
   background:
     image: zurich.jpg
-    image_darken: 0.5
+    image_darken: 0.7
     image_size: cover
     image_position: center
-    text_color_light: true
+    text_color_light: False
     image_parallax: true
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
