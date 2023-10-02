@@ -16,13 +16,13 @@ design:
     image_darken: 0.2
     image_size: cover
     image_position: center
-    text_color_light: False
-    image_parallax: True
+    text_color_light: flase
+    image_parallax: true
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   # Add custom styles
-  css_style:
-  css_class:
+  #css_style:
+  css_class: fullscreen
   
 ---
 
