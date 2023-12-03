@@ -7,7 +7,7 @@ authors:
 author_notes:
 - "Equal contribution"
 date: "2023-08-01T00:00:00Z"
-doi: ""
+doi: "10.2196/42129 "
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-08-01T00:00:00Z"
@@ -48,7 +48,7 @@ url_video: ''
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
-  preview_only: True
+  preview_only: False
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
