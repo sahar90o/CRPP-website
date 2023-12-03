@@ -1,10 +1,10 @@
 ---
-title: "An example journal article"
+title: "Saliency-Enhanced Content-Based Image Retrieval for Diagnosis
+Support in Dermatology Consultation: Reader Study"
 authors:
 - Javier Barranco Garcia
 
 author_notes:
-- "Equal contribution"
 - "Equal contribution"
 date: "2023-08-01T00:00:00Z"
 doi: ""
@@ -19,7 +19,7 @@ publishDate: "2023-08-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*JMIR DERMATOLOGY, 1*(1)"
 publication_short: ""
 
 abstract: In this article we proposed a content base image retrieval algorithm guided by saliency maps (SE-CBIR) which boots the retrieval accuracy by 7% compared to traditional approaches. In addition, a reader study shows that the use of such support tools help participants to improve their diagnosis accuracy while reducing melanoma overdiagnosis.
@@ -29,7 +29,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
 - Source Themes
-featured: false
+featured: True
 
 # links:
 # - name: ""
@@ -48,7 +48,7 @@ url_video: ''
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
-  preview_only: false
+  preview_only: True
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
