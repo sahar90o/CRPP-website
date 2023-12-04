@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Generalizable attention U-Net for segmentation of fibroglandular tissue and background parenchymal enhancement in breast DCE-MRI"
 authors:
 - Sylwia Nowakowska
 - Andreas Boss
