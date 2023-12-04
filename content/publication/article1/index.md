@@ -30,24 +30,11 @@ saliency maps. This approach provides better feature extraction, leading to bett
 providing interpretability for an eventual real-world implementation.
 Methods: Content-based image retrieval (CBIR) algorithms rely on the comparison of image features embedded by convolutional
 neural network (CNN) against a labeled data set. Saliency maps are computer vision–interpretable methods that highlight the
-most relevant regions for the prediction made by a neural network. By introducing a fine-tuning stage that includes saliency maps
-to guide feature extraction, the accuracy of image retrieval is optimized. We refer to this approach as saliency-enhanced CBIR
-(SE-CBIR). A reader study was designed at the University Hospital Zurich Dermatology Clinic to evaluate SE-CBIR’s retrieval
-accuracy as well as the impact of the participant’s confidence on the diagnosis.
-Results: SE-CBIR improved the retrieval accuracy by 7% (77% vs 84%) when doing single-lesion retrieval against traditional
-CBIR. The reader study showed an overall increase in classification accuracy of 22% (62% vs 84%) when the participant is
-provided with SE-CBIR retrieved images. In addition, the overall confidence in the lesion’s diagnosis increased by 24%. Finally,
-the use of SE-CBIR as a support tool helped the participants reduce the number of nonmelanoma lesions previously diagnosed
-as melanoma (overdiagnosis) by 53%.
-Conclusions: SE-CBIR presents better retrieval accuracy compared to traditional CBIR CNN-based approaches. Furthermore,
-we have shown how these support tools can help dermatologists and residents improve diagnosis accuracy and confidence.
-
-# Summary. An optional shortened abstract.
-summary: In this article we proposed a content base image retrieval algorithm guided by saliency maps (SE-CBIR) which boots the retrieval accuracy by 7% compared to traditional approaches. In addition, a reader study shows that the use of such support tools help participants to improve their diagnosis accuracy while reducing melanoma overdiagnosis
+most relevant regions for the prediction made by a neural network. By introducing a fine-tuning stage that includes saliency 
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
