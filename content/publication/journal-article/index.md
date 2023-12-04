@@ -1,16 +1,16 @@
 ---
-title: "Saliency-Enhanced Content-Based Image Retrieval for Diagnosis
-Support in Dermatology Consultation: Reader Study"
+title: "An example journal article"
 authors:
-- Javier Barranco Garcia
-
+- admin
+- Robert Ford
 author_notes:
 - "Equal contribution"
-date: "2023-08-01T00:00:00Z"
-doi: "10.2196/42129 "
+- "Equal contribution"
+date: "2015-09-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-08-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,27 +19,22 @@ publishDate: "2023-08-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*JMIR DERMATOLOGY, 1*(1)"
+publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Background: Previous research studies have demonstrated that medical content image retrieval can play an important role by
-assisting dermatologists in skin lesion diagnosis. However, current state-of-the-art approaches have not been adopted in routine
-consultation, partly due to the lack of interpretability limiting trust by clinical users.
-Objective: This study developed a new image retrieval architecture for polarized or dermoscopic imaging guided by interpretable
-saliency maps. This approach provides better feature extraction, leading to better quantitative retrieval performance as well as
-providing interpretability for an eventual real-world implementation.
-Methods: Content-based image retrieval (CBIR) algorithms rely on the comparison of image features embedded by convolutional
-neural network (CNN) against a labeled data set. Saliency maps are computer vision–interpretable methods that highlight the
-most relevant regions for the prediction made by a neural network. By introducing a fine-tuning stage that includes saliency 
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
+# Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
-featured: true
+featured: True
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10485719/pdf/derma_v6i1e42129.pdf
+url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -53,7 +48,7 @@ url_video: ''
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
-  preview_only: False
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
