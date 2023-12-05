@@ -1,17 +1,16 @@
 ---
-title: "Detailed patient-individual reporting of lymph node involvement in oropharyngeal squamous cell carcinoma with an online interface"
+title: "An example journal article"
 authors:
-- Roman Ludwing
-- Bertrand Pouymayou
-- Jan Unkelbach
-#author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
-date: "2022-02-01T00:00:00Z"
+- admin
+- Robert Ford
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-04-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,13 +19,13 @@ publishDate: "2022-04-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Radiotherapy and Oncology, 1*(1)"
+publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: We report lymph node involvement in oropharyngeal HNSCC on a patient-individual level. The dataset is made available together with an online interface to view and explore it at https://2021-oropharynx.lyprox.org. There, correlations between lymph node involvement and patient characteristics can be explored and the raw data downloaded. With its level of detail, our data may be the basis for further personalization of elective CTV definition.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: We report lymph node involvement in oropharyngeal HNSCC on a patient-individual level. The dataset is made available together with an online interface to view and explore it at https://2021-oropharynx.lyprox.org. There, correlations between lymph node involvement and patient characteristics can be explored and the raw data downloaded. With its level of detail, our data may be the basis for further personalization of elective CTV definition.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -35,7 +34,7 @@ featured: True
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.thegreenjournal.com/action/showPdf?pii=S0167-8140%2822%2900061-5
+url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
 url_poster: ''
