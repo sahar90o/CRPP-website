@@ -1,16 +1,17 @@
 ---
-title: "An example journal article"
+title: "A hidden Markov model for lymphatic tumor progression in the head and neck"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Roman Ludwing
+- Bertrand Pouymayou
+- Jan Unkelbach
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
+date: "2021-06-01T00:00:00Z"
+doi: " 10.1038/s41598-021-91544-1 "
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-06-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,14 +20,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Scientific Reports, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this methodological paper we develop a hidden Markov model on the basis of our previously published Bayesian network model to learn and predict how SCC spreads through the lymphatic system. The new model intuitively includes T-category via the model's notion of time. It manages to accurately describe clinical data from our hospital while still having only a handful of highly interpretable parameters.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+summary: In this methodological paper we develop a hidden Markov model on the basis of our previously published Bayesian network model to learn and predict how SCC spreads through the lymphatic system. The new model intuitively includes T-category via the model's notion of time. It manages to accurately describe clinical data from our hospital while still having only a handful of highly interpretable parameters.
 tags:
 - Source Themes
 featured: True
@@ -34,7 +34,7 @@ featured: True
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8192955/pdf/41598_2021_Article_91544.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

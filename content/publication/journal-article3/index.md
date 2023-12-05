@@ -8,7 +8,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2022-02-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.radonc.2022.01.035 "
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-04-01T00:00:00Z"
@@ -35,7 +35,7 @@ featured: True
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.thegreenjournal.com/action/showPdf?pii=S0167-8140%2822%2900061-5
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
