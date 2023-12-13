@@ -16,9 +16,9 @@ title:
 subtitle:
 
 design:
-  columns: "2"
+  columns: "3"
   background:
-    image: coders.png
+    image: usz.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
