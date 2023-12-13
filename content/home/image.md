@@ -16,7 +16,7 @@ title:
 subtitle:
 
 design:
-  columns: "3"
+  columns: "1"
   background:
     image: usz.jpg
     image_darken: 0
