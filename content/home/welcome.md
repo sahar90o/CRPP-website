@@ -8,10 +8,10 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title:
   Artificial Intelligence in Oncological Imaging
-#hero_media: zurich.jpg
+#hero_media: uzh.jpg
 design:
   background:
-    image: zurich.png
+    image: uzh.png
     image_darken: 0.1
     image_size: cover
     image_position: center
@@ -21,7 +21,7 @@ design:
   columns: '2'
   # Add custom styles
   css_style:
-  css_class: fullscreen 
+  css_class: 
   
 ---
 
