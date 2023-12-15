@@ -11,7 +11,7 @@ title:
 #hero_media:
 design:
   background:
-    image: zurich.png
+    image: eth-uzh.jpg
     image_darken: 0.1
     image_size: cover
     image_position: center
