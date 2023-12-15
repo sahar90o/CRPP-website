@@ -9,14 +9,14 @@ weight: 10  # Order that this section will appear.
 title:
   Artificial Intelligence in Oncological Imaging
 hero_media: eth-uzh.jpg
-design:
-  background:
-    image: eth-uzh.jpg
-    image_darken: 0.1
-    image_size: cover
-    image_position: center
-    text_color_light: true
-    image_parallax: false
+#design:
+  #background:
+    #image: eth-uzh.jpg
+    #image_darken: 0.1
+    #image_size: cover
+    #image_position: center
+    #text_color_light: true
+    #image_parallax: false
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
   # Add custom styles
