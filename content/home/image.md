@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "2"
   background:
-    image: usz.jpg
+    image: usz.png
     image_darken: 0
     image_parallax: false
     image_position: center
