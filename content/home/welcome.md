@@ -11,7 +11,7 @@ title:
 #hero_media: uzh.jpg
 design:
   background:
-    image: uzh.png
+    image: uzh.jpg
     image_darken: 0.1
     image_size: cover
     image_position: center
