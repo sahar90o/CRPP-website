@@ -3,12 +3,12 @@
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget: blank  # See https://wowchemy.com/docs/page-builder/
+widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title:
   Artificial Intelligence in Oncological Imaging
-#hero_media: uzh.jpg
+hero_media: uzh.jpg
 design:
   background:
     image: uzh.jpg
