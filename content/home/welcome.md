@@ -15,7 +15,7 @@ design:
     image_darken: 0.1
     image_size: cover
     image_position: center
-    text_color_light: true
+    text_color_light: false
     image_parallax: false
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
